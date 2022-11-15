@@ -1,5 +1,5 @@
 # GENN-Jetson-XavierNX
-Configuring the Nvidia Jetson Xavier NX for running GENN (https://genn-team.github.io/genn/documentation/4/html/d0/da6/UserGuide.html)
+Configuring the Nvidia Jetson Xavier NX for running GENN (https://genn-team.github.io/genn/documentation/4/html/index.html)
 
 Jet-pack 5.0 without modifications
 Cuda 11.4., Cuda toolkit etc.
