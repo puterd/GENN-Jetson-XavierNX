@@ -1,7 +1,7 @@
 # GENN-Jetson-XavierNX
 Configuring the Nvidia Jetson Xavier NX for running GENN & PyGENN (https://genn-team.github.io/genn/documentation/4/html/index.html)
 
-Jet-pack 5.0 without modifications:
+JP SD 5.0.2 without modifications:
 Cuda 11.4., Cuda toolkit etc.
 
 Flashed from url using balenaEtcher (https://developer.nvidia.com/embedded/L4T/r35_Release_v1.0/JP_SD_5.0.2_b231/Jetson_SD_Xavier_NX/JP502-xnx-sd-card-image-b231.zip)
