@@ -10,6 +10,8 @@ Cuda toolkit etc.
 sudo apt-get update 
 sudo apt-get full-upgrade
 
+sudo apt-get install swig
+
 git clone https://github.com/genn-team/genn.git
 
 export PATH=$PATH:$HOME/GeNN/bin
