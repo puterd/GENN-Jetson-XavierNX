@@ -12,6 +12,8 @@ sudo apt-get install swig
 
 git clone https://github.com/genn-team/genn.git
 
+cd genn
+
 export PATH=$PATH:$HOME/GeNN/bin
 
 echo "export PATH=$PATH:$CUDA_PATH/bin" >> ~/.bash_profile
