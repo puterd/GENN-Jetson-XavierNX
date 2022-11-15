@@ -6,7 +6,7 @@ Cuda 11.4.
 Cuda toolkit etc.
 
 
-#GENN
+# GENN
 sudo apt-get update 
 sudo apt-get full-upgrade
 
@@ -18,7 +18,7 @@ echo "export PATH=$PATH:$CUDA_PATH/bin" >> ~/.bash_profile
 
 export CUDA_PATH=/usr/local/cuda
 
-#PyGENN
+# PyGENN
 
 sudo make DYNAMIC=1 LIBRARY_DIRECTORY=`pwd`/pygenn/genn_wrapper/
 
