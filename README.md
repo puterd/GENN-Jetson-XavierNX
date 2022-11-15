@@ -1,14 +1,12 @@
 # GENN-Jetson-XavierNX
 Configuring the Nvidia Jetson Xavier NX for running GENN (https://genn-team.github.io/genn/documentation/4/html/d0/da6/UserGuide.html)
 
-Jet-pack 5 without modification 
-Cuda 11.4. 
-Cuda toolkit etc.
+Jet-pack 5.0 without modifications
+Cuda 11.4., Cuda toolkit etc.
 
 
 # GENN
-sudo apt-get update 
-sudo apt-get full-upgrade
+sudo apt-get update -y
 
 sudo apt-get install swig
 
