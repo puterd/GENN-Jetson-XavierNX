@@ -15,11 +15,11 @@ git clone https://github.com/genn-team/genn.git
 
 cd genn
 
-export PATH=$PATH:$HOME/GeNN/bin
+echo "export CUDA_PATH=/usr/local/cuda" >> ~/.bashrc
+echo "export PATH=$PATH:$CUDA_PATH/bin" >> ~/.bashrc
 
-echo "export PATH=$PATH:$CUDA_PATH/bin" >> ~/.bash_profile
+echo "export PATH=$PATH:~/genn/bin" >> ~/.bashrc
 
-export CUDA_PATH=/usr/local/cuda
 
 # PyGENN
 
