@@ -34,5 +34,5 @@ echo "export PATH=$PATH:~/genn/bin" >> ~/.bashrc
 sudo make DYNAMIC=1 LIBRARY_DIRECTORY=`pwd`/pygenn/genn_wrapper/
 ```
 ```
-python setup.py develop (might need sudo)
+python setup.py develop
 ```
