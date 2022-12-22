@@ -1,5 +1,5 @@
 ## GENN-Jetson-XavierNX
-Configuring the Nvidia Jetson Xavier NX for running GENN & PyGENN (https://genn-team.github.io/genn/documentation/4/html/index.html)
+Configuring the Nvidia Jetson Xavier NX for the neural simulator GENN & python library PyGENN (https://genn-team.github.io/genn/documentation/4/html/index.html)
 
 JP-SD 5.0.2 without modifications:
 Cuda 11.4., Cuda toolkit etc.
